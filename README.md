@@ -4,7 +4,6 @@
 - 🎓 **BE - CSE Graduate (2024) from Acharya Institute of Technology**  
 - 🌱 I’m currently learning **Advanced DSA & Adv. React framework**  
 - 🔍 Passionate about **Full Stack Development, Machine Learning & Android Development**  
-- 💡 Currently building **a website to analyze insurance T&C for hidden clauses**  
 - 👨‍💻 Most of my projects are available on **[GitHub](https://github.com/Shamanthkv553)**  
 - 📫 How to reach me **shamanthkv123.email@example.com**  
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1ehuRWl7-lg05FtZn6aXJtXkM8v9M9kpc/view?usp=sharing)**  
