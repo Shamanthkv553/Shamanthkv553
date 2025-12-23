@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Advanced DSA & Adv. React framework**  
 - 🔍 Passionate about **Full Stack Development, Machine Learning & Android Development**  
 - 👨‍💻 Most of my projects are available on **[GitHub](https://github.com/Shamanthkv553)**  
-- 📫 How to reach me **shamanthkv123.email@example.com**  
+- 📫 How to reach me **shamanthkv123@gmail.com**  
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1ehuRWl7-lg05FtZn6aXJtXkM8v9M9kpc/view?usp=sharing)**  
 
 ## 🛠️ Skills & Technologies:
