@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamanth K V</h1>
 
 ## 🚀 About Me:
-- 🎓 **BE - CSE Graduate (2024) from Acharya Institute of Technology**  
+- 🎓 **BE - CSE Graduate from Acharya Institute of Technology**  
 - 🌱 I’m currently learning **Advanced DSA & Adv. React framework**  
 - 🔍 Passionate about **Full Stack Development, Machine Learning & Android Development**  
 - 👨‍💻 Most of my projects are available on **[GitHub](https://github.com/Shamanthkv553)**  
